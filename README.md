@@ -24,7 +24,7 @@
 
 ---
 
-## Backend & Frontend Skills
+<p align="center"><b>🧠 Backend & Frontend Skills</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js" />
@@ -32,7 +32,7 @@
 
 ---
 
-## DevOps & Cloud Knowledge
+<p align="center"><b>⚙️ DevOps & Cloud Knowledge</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,maven" />
