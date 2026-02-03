@@ -10,7 +10,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abnagayashas@gmail.com" target="_blank">
+  <a https://mail.google.com/mail/?view=cm&fs=1&to=abnagayashas@gmail.com
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/nagayashas" target="_blank">
